@@ -1,0 +1,72 @@
+/* * {
+    border: 1px solid black;
+} */
+
+
+#contenedor {
+    width: 950px;
+    height: 600px;
+    margin: 0 auto;
+    margin-top: 250px;
+    margin-bottom: 250px;
+    padding: 60px;
+    text-align: center;
+    background-color: white;
+    border-radius: 20px;
+    border: 10px solid gray;
+}
+
+#formulario {
+    margin-top: 80px;
+}
+
+#Usuario {
+    font-size: 35px;
+    font-family: 'Rubik', sans-serif ;
+}
+
+#usuario {
+    width: 300px;
+    height: 50px;
+    margin-bottom: 20px;
+    font-size: 20px;
+    border-style: none;
+    border-bottom: 3px solid gray;
+}
+
+#contraseña {
+    width: 300px;
+    height: 50px;
+    margin-bottom: 20px;
+    font-size: 20px;
+    border-style: none;
+    border-bottom: 3px solid gray;
+    font-family: 'Rubik', sans-serif ;
+}
+
+#logo {
+    border-bottom: 3px solid gray;
+    padding-bottom: 20px;
+}
+
+#olvido {
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+    font-family: 'Rubik', sans-serif ;
+}
+
+#boton  {
+    width: 200px;
+    height: 40px;
+    margin-top: 15px;
+    border-style: none;
+    background-color: rgb(0, 148, 0);
+    border-radius: 10px;
+}
+
+#inicio {
+    text-decoration: none;
+    color: white;
+    font-family: 'Rubik', sans-serif ;
+}
