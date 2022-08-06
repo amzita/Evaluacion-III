@@ -1,0 +1,202 @@
+/* *{
+    border: 1px solid black;
+} */
+
+#contenedor {
+    width: 1000px;
+    height: 1800px;
+    margin: 0 auto;
+    background-color: rgba(214, 218, 214, 0.747);
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border-radius: 20px;
+    padding: 50px;
+}
+
+#titulo {
+    font-size: 50px;
+    font-family: 'Rubik', sans-serif;
+}
+
+
+/* Banda1 */
+
+#div1 {
+    width: 1000px;
+    height: 304px;
+    margin: 0 auto;
+    align-items: center;
+    padding: 5px;
+    border: 3px solid gray;
+    border-radius: 10px;
+}
+
+
+#logo1 {
+    width: 300px;
+    float: left;
+}
+
+
+#info1 {
+    width: 694px;
+    float: right;
+    font-family: 'Rubik', sans-serif;
+}
+
+#imagen1{
+    width: 300px;
+}
+
+
+#BTS {
+    text-decoration: none;
+    color: black;
+}
+
+/* Banda2 */
+
+#div2 {
+    width: 1000px;
+    height: 304px;
+    margin: 0 auto;
+    align-items: center;
+    padding: 5px;
+    border: 3px solid gray;
+    border-radius: 10px;
+    margin-top: 15px;
+}
+
+
+#logo2 {
+    width: 300px;
+    float: left;
+}
+
+
+#info2 {
+    width: 694px;
+    float: right;
+    font-family: 'Rubik', sans-serif;
+}
+
+#imagen2 {
+    width: 300px;
+}
+
+
+#TXT {
+    text-decoration: none;
+    color: black;
+}
+
+/* Banda3 */
+
+#div3 {
+    width: 1000px;
+    height: 304px;
+    margin: 0 auto;
+    align-items: center;
+    padding: 5px;
+    border: 3px solid gray;
+    border-radius: 10px;
+    margin-top: 15px;
+}
+
+
+#logo3 {
+    width: 300px;
+    float: left;
+}
+
+
+#info3 {
+    width: 694px;
+    float: right;
+    font-family: 'Rubik', sans-serif;
+}
+
+#imagen3 {
+    width: 300px;
+    height: 300px;
+}
+
+#Enhypen {
+    text-decoration: none;
+    color: black;
+}
+
+
+/* Banda4 */
+
+#div4 {
+    width: 1000px;
+    height: 304px;
+    margin: 0 auto;
+    align-items: center;
+    padding: 5px;
+    border: 3px solid gray;
+    border-radius: 10px;
+    margin-top: 15px;
+}
+
+
+#logo4 {
+    width: 300px;
+    float: left;
+}
+
+
+#info4 {
+    width: 694px;
+    float: right;
+    font-family: 'Rubik', sans-serif;
+}
+
+#imagen4 {
+    width: 300px;
+    height: 300px;
+}
+
+
+#Blackpinck{
+    text-decoration: none;
+    color: black;
+}
+
+/* Banda5 */
+
+#div5 {
+    width: 1000px;
+    height: 304px;
+    margin: 0 auto;
+    align-items: center;
+    padding: 5px;
+    border: 3px solid gray;
+    border-radius: 10px;
+    margin-top: 15px;
+}
+
+
+#logo5 {
+    width: 300px;
+    float: left;
+}
+
+
+#info5 {
+    width: 694px;
+    float: right;
+    font-family: 'Rubik', sans-serif;
+}
+
+#imagen5 {
+    width: 300px;
+    height: 300px;
+}
+
+#Twice{
+    text-decoration: none;
+    color: black;
+}
+

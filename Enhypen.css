@@ -1,0 +1,58 @@
+#contenedor1 {
+    width: 1000px;
+    height: 900px;
+    margin: 0 auto;
+    font-family: 'Rubik', sans-serif;
+    margin-top: 30px;
+    background-color:blue (180, 180, 180, 0.692);
+    border-radius: 20px;
+    padding: 50px;
+    text-align: center;
+}
+
+
+#imagen {
+    text-align: center;
+}
+
+#logo {
+    width: 800px;
+}
+
+#texto {
+    margin-top: 80px;
+}
+
+
+#titulo {
+    font-size: 50px;
+    margin-bottom: 15px;
+}
+
+#info{
+    margin-top: 50px;
+}
+
+
+#boton{
+    width: 300px;
+    height: 50px;
+    margin-top: 50px;
+    border-style: none;
+    font-size: 30px;
+    font-family: 'Rubik',sans-serif;
+    background-color: rgb(33, 30, 172);
+}
+
+
+#video{
+    text-decoration: none;
+    color: white;
+}
+
+
+#volver {
+    text-decoration: none;
+    color: black;
+    margin-top: 25px;
+}
